@@ -1,6 +1,7 @@
 from fib_package import fibnoc
+
 print "Fibonacci Series"
 
-fibnoc.series(10)
+fibnoc.series(15)
 
 
